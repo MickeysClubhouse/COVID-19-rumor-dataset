@@ -29,16 +29,12 @@
 - `twitter` 
   - Twitter.csv and subfolder of each twitter
   - The number of subfolder records: 1383  
- 
+
 - `en_dup.csv` 
   - The number of records: 7179.   
   - Part of data are collected manually by keywords searching from sources such as twitter.com.  
   - Data from www.snopes.com and qc.wa.news.cn are collected by 'snopes.py'.  
 
-- `USC_Melady_Lab_hasDup.csv` 
-  - The number of records: 35134 (with duplicates).  
-  - Data come from usc-melady.github.io/COVID-19-Tweet-Analysis/misinfo.html, accessed in May.  
-  - Reference: Sharma, Karishma, et al. "Coronavirus on social media: Analyzing misinformation in Twitter conversations."   arXiv preprint arXiv:2003.12309 (2020).
   
   
 # Acknowledgement
