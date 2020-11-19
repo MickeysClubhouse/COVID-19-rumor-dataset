@@ -22,11 +22,11 @@
 
 # Data
 - `news` 
-  - news.csv (4207) and subfolder of each news
+  - news.csv (4129) and subfolder of each news
   - The number of subfolder records: 3936   
 
 - `twitter` 
-  - Twitter.csv (2713) and subfolder of each twitter
+  - Twitter.csv (2705) and subfolder of each twitter
   - The number of subfolder records: 1383  
 
 - `en_dup.csv`
