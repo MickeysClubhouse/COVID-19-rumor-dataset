@@ -22,15 +22,16 @@
 
 # Data
 - `news` 
-  - news.csv and subfolder of each news
+  - news.csv (4207) and subfolder of each news
   - The number of subfolder records: 3936   
 
 - `twitter` 
-  - Twitter.csv and subfolder of each twitter
+  - Twitter.csv (2713) and subfolder of each twitter
   - The number of subfolder records: 1383  
 
-- `en_dup.csv` 
-  - The number of records: 7179.   
+- `en_dup.csv`
+  - Unprocessed data with both news and twitter records.  
+  - The number of records: 7179 (with duplication).   
   - Part of data are collected manually by keywords searching from sources such as twitter.com.  
   - Data from www.snopes.com and qc.wa.news.cn are collected by 'snopes.py'.  
 
