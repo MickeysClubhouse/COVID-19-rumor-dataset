@@ -5,7 +5,7 @@
 │	└── news
 │	└── twitter
 ├── Data Analysis
-│   └── data_process.ipynb
+│   └── PowerLaw Analysis.pdf
 ├── Data Collecting
 │   └── snopes.py
 ├── LICENSE
@@ -17,7 +17,7 @@
   - It is used to collect data from website www.snopes.com and qc.wa.news.cn (departed)
 
 # Data Analysis  
-`data_process.ipynb` is written on Jupyter Notebook.  
+- PowerLaw Analysis includes the statistical analysis of rumor popularity data.  
 
 
 # Data
