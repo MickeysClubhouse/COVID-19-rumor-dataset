@@ -40,5 +40,4 @@
 # Acknowledgement
 - We thank Tianqi, Wenshuo, Jianni, Xiaofeng, and Hanlong for rumor data collection and labeling.  
 
-# The MIT License (MIT)
 
