@@ -18,6 +18,8 @@
 
 # Data Analysis  
 - PowerLaw Analysis includes the statistical analysis of rumor popularity data.  
+- Sentiment analysis https://colab.research.google.com/drive/1CyGtXPSol_Ayt_WR7zsq60M2Q5kDUofd?usp=sharing  
+- Stance analysis https://colab.research.google.com/drive/1ItGmEvumyOesXeB2dV7w5cnjRW9fTAKL?usp=sharing  
 
 
 # Data
