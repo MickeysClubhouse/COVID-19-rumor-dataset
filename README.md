@@ -47,3 +47,4 @@
 
 # Cite Us
 I'm pleased to announce that this work is accepted by Frontiers in Psychology! Please cite us when formal publication is available.  
+Link to paper: https://www.frontiersin.org/articles/10.3389/fpsyg.2021.644801/full
