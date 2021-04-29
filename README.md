@@ -46,5 +46,14 @@
 - We thank Tianqi, Wenshuo, Jianni, Xiaofeng, and Hanlong for rumor data collection and labeling.  
 
 # Cite Us
-I'm pleased to announce that this work is accepted by Frontiers in Psychology! Please cite us when formal publication is available.  
+Cheng, Mingxi, et al. "A COVID-19 Rumor Dataset." Frontiers in Psychology 12 (2021): 1566.  
+@article{cheng2021covid,  
+  title={A COVID-19 Rumor Dataset},  
+  author={Cheng, Mingxi and Wang, Songli and Yan, Xiaofeng and Yang, Tianqi and Wang, Wenshuo and Huang, Zehao and Xiao, Xiongye and Nazarian, Shahin and Bogdan, Paul},  
+  journal={Frontiers in Psychology},  
+  volume={12},  
+  pages={1566},  
+  year={2021},  
+  publisher={Frontiers}. 
+}.   
 Link to paper: https://www.frontiersin.org/articles/10.3389/fpsyg.2021.644801/full
